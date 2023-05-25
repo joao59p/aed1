@@ -1,0 +1,7 @@
+/*
+    Aluno: Joao Paulo Pantoja Cavalcante
+    Matricula: 2115280050
+*/
+
+no final do programa o valor das variaveis seram x = 3, y = 4, e p aponta
+para o endereço de memoria de y

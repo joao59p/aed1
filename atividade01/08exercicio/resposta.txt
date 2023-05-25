@@ -1,0 +1,10 @@
+/*
+    Aluno: Joao Paulo Pantoja Cavalcante
+    Matricula: 2115280050
+*/
+
+um vetor estatico ele é uma variavel que recebe outros valores do mesmo tipo 
+ele tem uma tamanho ja definido que fica em uso na memoria.
+já o ponteiro ele aponta (guarda) para o endereço de memoria de uma outra 
+variavel, além de manipular o conteudo dela, podendo ser utilizado para criar
+estruturas de forma dinamica, otimizando o espaço utilizado na memoria. 

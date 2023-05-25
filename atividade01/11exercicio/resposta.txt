@@ -1,0 +1,9 @@
+/*
+    Aluno:Joao Paulo Pantoja Cavalcante
+    Matricula: 2115280050
+*/
+
+não, pois, o ponteiro ele atua guardado o endereço de memoria e ele e
+dinamico, podendo crescer e diminuir conforme a necessidade.
+ja o vetor ele e estatico, sendo seu tamanho ja definido não pode ser
+alterado, além de armazena outros elementos. 

@@ -1,0 +1,8 @@
+/*
+    Aluno:Joao Paulo Pantoja Cavalcante
+    Matricula:2115280050
+*/
+
+A diferença e que quando chamamos o padrão vetor[3] estamos chamando o
+conteudo dessa posição do vetor. já quando chamamos v + 3 estão pedindo
+o endereço de memoria do vetor na posição indicada 

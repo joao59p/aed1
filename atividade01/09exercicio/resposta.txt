@@ -1,0 +1,10 @@
+/*
+    Aluno: Joao Paulo Pantoja Cavalcante
+    Matricula: 2115280050
+*/
+
+porque com os ponteiros e possivel a alocação dinamica de memoria a qual 
+e possivel pedir da maquina quantidade de memoria correta para aquele momento
+evitando desperdicio de memoria, além de permitir o acesso e a alteração dos
+passando a refencia do endereço de memoria, evitando copias desnecessarias de
+conjunto de dados 

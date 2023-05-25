@@ -1,0 +1,33 @@
+/*
+    Aluno:Joao Paulo Pantoja Cavalcante
+    Matricula: 2115280050
+*/
+
+
+a relação entre eles e que em muitas linguagens de programação os ponteiros
+são utilizados para manipular e acessar as strings de forma dinamica.
+em C por exemplo podemos utilizar da seguinte maneira:
+
+
+char nome[] ="Joao";
+  
+nome[0] = '7';
+printf("%c\n", nome[0]);
+printf("%s\n\n" ,nome);
+saida: 
+7
+7oao
+
+nome[0] = 'j';
+printf("%c\n", nome[0]);
+printf("%s\n" ,nome);
+saida:
+j
+joao
+
+Em python vemos isso nos vemos no fatiamento de strings:
+
+x = "Bom dia"
+print(x[2])
+saida: 'o'
+
