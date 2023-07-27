@@ -1,3 +1,9 @@
+/*
+  Disciplina: Algoritmos e Estruturas de Dados I
+  Aluno Joao Paulo Pantoja Cavalcante
+  Matricula: 2115280050
+*/
+
 #include "lista_encadeada3.h"
 int main(int argc , char** argv)
 {
